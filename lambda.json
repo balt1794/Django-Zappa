@@ -28,7 +28,7 @@
                 "cloudformation:UpdateStack",
                 "events:ListRules",
                 "events:RemoveTargets",
-                "s3:HeadBucket",
+                "s3:ListBucket",
                 "cloudformation:DescribeChangeSet",
                 "iam:ListRolePolicies",
                 "apigateway:GET",
